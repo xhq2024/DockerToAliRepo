@@ -1,6 +1,6 @@
 #redis:7.4.1
 #nginx:1.27.2
-mysql:8.0.40
+#mysql:8.0.40
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 #redis
@@ -8,5 +8,5 @@ mysql:8.0.40
 #ghcr.io/open-webui/open-webui:ollama
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
-
+centos
 
